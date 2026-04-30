@@ -1,4 +1,4 @@
- #**Customer Retention & Churn Analysis Dashboard**
+ # **Customer Retention & Churn Analysis Dashboard**
 
 An interactive Power BI dashboard designed to analyze customer churn patterns and identify key factors affecting customer retention. This project helps businesses understand why customers leave and provides insights to improve retention strategies.
 
